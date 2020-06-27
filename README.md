@@ -4,15 +4,14 @@
 
 > | Python | Kivy |
 
-
-_Créditos/tutorial: [Link][tutorial]._
-
-
 ### Codificação
 ![](code.png)
 
 ### Calculadora
 ![](calculadora.png)
+
+
+_Créditos/tutorial: [Link][tutorial]._
 
 <!-- Markdown link & img dfn's -->
 [tutorial]: http://www.newthinktank.com/2016/10/kivy-tutorial-3/
